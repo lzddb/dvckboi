@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvckboi
+- 👋 Hi, I’m @lzddb
 - 👀 I’m interested in Offensive Cyber Security, Bug Bounty Hunting.
 - 🌱 I’m currently learning Cyber Security and Bug Bounty Hunting
 - 💞️ I’m looking to collaborate on Hackerone and Bugcrowd
